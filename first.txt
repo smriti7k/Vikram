@@ -1,3 +1,5 @@
 This excerise for Git hub to Git via Remote
 Add SSH
 This is for Jenkins CI
+
+checking CI on jenkins
